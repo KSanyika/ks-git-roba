@@ -1,0 +1,32 @@
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 2rem;
+    padding-top: 1rem;
+    color: rgb(170, 106, 22);
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: rgb(170, 106, 22);
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.4rem;
+    letter-spacing: .1rem;
+    text-align: justify;
+    margin: auto 2rem;
+    color: rgb(170, 106, 22);
+}
+
